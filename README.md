@@ -58,13 +58,7 @@ To reset the demo data, open the browser's Developer Tools → Application/Stora
 - Data is local to the browser and origin. It is not shared across different devices or users and can be cleared by the browser.
 - This is a front-end academic/demo project, not a secure production HR system. LocalStorage is not encrypted, there is no authentication or authorization, and data is editable by the browser user. Do not store real sensitive employee information.
 
-## Suggested future enhancements
 
-- Backend API and database (e.g. Node.js/Express and PostgreSQL/MySQL).
-- Authentication, role-based access, server-side validation, and audit logs.
-- Employee profile photos, leave requests, attendance, and payroll processing.
-- Automated tests, import CSV, and richer reporting.
-- CSP/security headers and a production deployment pipeline.
 
 ## Test checklist
 
